@@ -82,6 +82,11 @@ body {
   max-width: 355px;
   margin: 0 auto;
 }
+@media (max-width: 375px) {
+  .container {
+    max-width: calc(100% - 20px);
+  }
+}
 
 .btn-green {
   padding: 21px 40px;

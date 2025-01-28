@@ -19,6 +19,10 @@ body {
 .container {
     max-width: 355px;
     margin: 0 auto;
+
+    @media (max-width: 375px) {
+        max-width: calc(100% - 20px);
+    }
 }
 
 .btn {
