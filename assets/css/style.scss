@@ -161,6 +161,7 @@ body {
         &__content {
             position: relative;
             width: 100%;
+            max-width: 375px;
             background: #FFF;
             border-radius: 16px;
             padding: 30px 30px 38px;
