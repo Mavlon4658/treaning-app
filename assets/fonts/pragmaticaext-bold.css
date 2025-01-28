@@ -1,0 +1,9 @@
+@font-face {
+	font-family: 'PragmaticaExt-Bold';
+	src: url('../fonts/pragmaticaext-bold.eot'); /* IE 9 Compatibility Mode */
+	src: url('../fonts/pragmaticaext-bold.eot?#iefix') format('embedded-opentype'), /* IE < 9 */
+		url('../fonts/pragmaticaext-bold.woff2') format('woff2'), /* Super Modern Browsers */
+		url('../fonts/pragmaticaext-bold.woff') format('woff'), /* Firefox >= 3.6, any other modern browser */
+		url('../fonts/pragmaticaext-bold.ttf') format('truetype'), /* Safari, Android, iOS */
+		url('../fonts/pragmaticaext-bold.svg#pragmaticaext-bold') format('svg'); /* Chrome < 4, Legacy iOS */
+}
